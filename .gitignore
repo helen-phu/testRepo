@@ -280,6 +280,7 @@ config.ps1
 
 # ignoring .txt files
 *.txt
+*.log
 
 # ignoring markdown files
 *.md
