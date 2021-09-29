@@ -26,9 +26,10 @@
 #[Rr]eleases/
 #build/
 #bld/
-#[Bb]in/
+[Bb]in/
 #[Ll]ogs/
-#[Oo]bj/
+[Oo]bj/
+[Ss]ervice References/
 #msbuild.log
 #msbuild.err
 #msbuild.wrn
