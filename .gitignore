@@ -1,3 +1,5 @@
+syntax: glob
+
 ### .NET Standard specific ###
 
 src/platforms/netcoreapp/
