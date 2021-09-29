@@ -279,4 +279,4 @@ config.ps1
 **/IISApplications
 
 # .txt files
-*.txt
+
