@@ -1,4 +1,4 @@
-syntax: glob
+#syntax: glob
 
 ### .NET Standard specific ###
 
