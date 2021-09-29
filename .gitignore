@@ -278,5 +278,5 @@ Session.vim
 config.ps1
 **/IISApplications
 
-# .txt files
+# ignoring .txt files
 *.txt
